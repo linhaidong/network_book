@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [ICMP](proto/icmp.md)
-* [数据包格式](proto/tcpip.md)
+* [ICMP](icmp.md)
+* [数据包格式](tcpip.md)
 
